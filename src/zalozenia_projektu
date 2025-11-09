@@ -1,0 +1,12 @@
+Zalozenia rendezvous:
+Agenci szukaja sie po mapie i ich celem jest dobranie sie w pary (agentow jest zawsze parzysta liczba)
+Gdy agenci sa przy sasiednich polach komunikuja sie ktory z nich ma zostac.
+Komunikacja opiera sie tylko o to ktory z nich ma wejsc na wierzcholek.
+Maksymalna liczba agentow na wierzcholek to 2 przez co moga zablokowac w waskim gardle innych agentow.
+
+Mapa:
+- Graf
+
+Badania:
+- Jak algorytmy agentow wplywaja na sredni czas znalezienie sobie pary dla danego agenta
+- Ilu krotnie wystapi sytuacja gdy para agentow zablokuje w waskim gardle innych agentow
